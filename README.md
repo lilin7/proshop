@@ -1,6 +1,6 @@
 # proshop
 
-Build an eCommerce platform from the ground up with React, Redux, Express & MongoDB, with full featured shopping cart with PayPal & credit/debit payments, customer management, products & orders, product rating & review system, product search & more.
+Build an eCommerce platform from the ground up with JavaScript, React, Redux, Express & MongoDB, with full featured shopping cart with PayPal & credit/debit payments, customer management, products & orders, product rating & review system, product search & more.
 
 - Full featured shopping cart
 - Product reviews and ratings
