@@ -1,0 +1,23 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "Lin's on-line shop app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilin7/proshop.git"
+  },
+  "author": "Lin Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilin7/proshop/issues"
+  },
+  "homepage": "https://github.com/lilin7/proshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
