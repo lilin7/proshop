@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Lin's on-line shop app",
   "main": "server.js",
+  "type": "module",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node backend/server",
