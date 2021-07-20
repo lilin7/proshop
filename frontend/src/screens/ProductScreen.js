@@ -19,7 +19,7 @@ const ProductScreen = ( {match} ) => {
             // setProducts(res.data)
         }
         fetchProduct()
-    }, [])
+    }, [match])
 
     return (
         <>
