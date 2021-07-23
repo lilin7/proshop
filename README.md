@@ -2,6 +2,8 @@
 
 ***(in progress)***
 
+***(Current stage: check comment in commit history)***
+
 *(Followed a tutorial but typed every line by myself iteratively, added comments to understand what and why.)*
 
 *************************
