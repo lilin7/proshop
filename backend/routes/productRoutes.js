@@ -14,7 +14,7 @@ router.get('/', asyncHandler(async(req, res) => {
 }))
 
 // @desc Fetch single product
-// @route GET /api/products
+// @route GET /api/products/:id
 // @access Public
 
 router.get('/:id', asyncHandler(async(req, res) => {
